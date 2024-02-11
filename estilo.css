@@ -1,0 +1,155 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+
+    background-color: white;
+    padding: 3px 3px;
+    background-image: url("Diseño sin título.png");
+    /* Ajustar la imagen de fondo */
+    background-size: cover;
+    /* Centrar la imagen de fondo */
+    background-position: center;
+    /* Fijar la imagen de fondo */
+    background-attachment: fixed;
+}
+
+.foto {
+    display: inline-block;
+    margin: 50px auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.container {
+    width: 1700px;
+    height: 1050px;
+    margin: 50px auto;
+    padding: 50px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1,h2,h3 {
+    color: #1a1919;
+}
+
+h2 {
+    text-align: center;
+}
+
+p, li, td {
+    color: #202020;
+}
+
+h1 {
+    text-align: center;
+}
+
+.foot {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+    background-color: white;
+    padding: 3px 3px;
+    display: block;
+
+}
+
+.section1 {
+    background-color: white;
+    display: inline-block;
+    margin: 50px auto;
+    padding: 15px;
+
+}
+
+.section {
+    background-color: white;
+    padding: 15px;
+    height: 830px;
+    float: right;
+    margin: 50px auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+footer {
+    background-color: white;
+    padding: 3px 3px;
+    margin-top: 220px;
+    display: block;
+}
+
+.recepcion {
+    float: left;
+    width: 500px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Aptitudes {
+    width: 500px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    clear: left;
+}
+.ap{
+    padding-top: 55px;
+}
+
+.TEUTN {
+    float: right;
+    width: 500px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.Habilidades {
+    float: right;
+    width: 500px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    clear: right;
+}
+.Educacion {
+    width: 500px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+}
+.fa{
+    padding-top: 105px;
+}
+.tabla{
+    border-collapse: collapse;
+}
+th, td{
+    border: 1px solid black;
+    padding: 5px;
+    text-align: left;
+}
+.Idiomas{
+    float: right;
+    width: 500px;
+    height: 100px;
+    padding: 10px;
+
+}
+
+.Idioma{
+
+    padding-top: 170px;
+    margin-top: 50px;
+}
+
+.hb{
+
+    padding-top: 63px;
+    margin-top: 50px;
+}
